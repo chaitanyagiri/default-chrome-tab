@@ -1,23 +1,8 @@
-// write a beautiful readme.md for a chrome extension using which one can set a default tab for a chrome window so that whenever someone switches to any other window and then comes back to chrome, the default tab is opened.
-// The readme.md should contain the following:
-// 1. A brief description of the extension
-// 2. A screenshot of the extension
-// 3. A link to the extension
-// 4. A link to the source code
-// 5. A link to the chrome web store
-// 6. A link to the license
-// 7. A link to the author's website
-// 8. A link to the author's twitter
-// 9. A link to the author's github
-
+I wanted to customise how I use my chrome hence like any other software engineer I wrote this extension if you have a similar usecase feel free to use or customise it to your need.
 
 # Chrome Default Tab
 
 A chrome extension using which one can set a default tab for a chrome window so that whenever someone switches to any other window and then comes back to chrome, the default tab is opened.
-
-## Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/anshumanv/chrome-default-tab/master/screenshot.png)
 
 ## Installation
 
